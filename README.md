@@ -2,8 +2,4 @@
 
 Used in teaching Git.
 
-n1
-
-n2
-
-n3
+It's delicious.
