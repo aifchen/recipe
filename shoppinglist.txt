@@ -2,3 +2,5 @@
 * bread
 * potatos
 * kiwi
+* salt
+
